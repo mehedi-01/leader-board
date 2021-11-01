@@ -1,0 +1,34 @@
+body{
+    background-color: #E5E5E5;
+    ;
+}
+.navbar img{
+width: 40.42px;
+height: 51px;
+left: 285px;
+top: 26px;
+
+}
+.player img{
+    width: 50px;
+}
+main{
+    max-width: 870px;
+    padding-top: 20px;
+    
+}
+.top-player{
+    background-color: #ffffff;
+    text-align: center;
+    padding: 20px;
+
+
+}
+.top-blog img{
+    width: 200px;
+ 
+}
+.top-blog{
+    background-color: #E5E5E5;
+    text-align: center;
+}
